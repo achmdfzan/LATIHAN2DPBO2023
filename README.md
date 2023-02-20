@@ -1,5 +1,7 @@
 # LATIHAN2DPBO2023
 
+![lat2](https://user-images.githubusercontent.com/91662639/220077358-8357ae00-7396-4d99-a078-76ae48cd05dc.png)
+
 Terdapat 3 kelas dalam program ini, setiap class memiliki hubungan Multi-level inheritance.
 Berikut class-class yang terdapat dalam program ini:
 #### 1. Class Human
@@ -17,3 +19,4 @@ Berikut merupakan alasan struktur pewarisan dalam program:
 - class Human berada di paling atas karena semua SivitasAkademik dan semua Mahasiswa pasti merupakan Human.
 - class SivitasAkademik berada di tengah karena tidak semua Human merupakan SivitasAkademik sedangkan semua Mahasiswa pasti merupakan SivitasAkademik.
 - class Mahasiswa berada di paling bawah karena tidak semua Human dan tidak semua SivitasAkademik merupakan Mahasiswa.
+
