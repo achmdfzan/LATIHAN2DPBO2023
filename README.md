@@ -11,7 +11,7 @@ Berikut class-class yang terdapat dalam program ini:
 #### 3. Class Mahasiswa
   Class ini berisi NIM, Program Studi, dan Fakultas. Atribut-atribut tersebut memiliki access modifier private agar hanya bisa diakses langusng di dalam class tersebut.
   Class ini berada di bawah hierarki pewarisan. Artinya class hanya memiliki parent class (SivitasAkademik) dan tidak memiliki parent class.
-###### *Pada class java terdapat tambahan 1 class untuk Main
+###### *Pada bahasa Java terdapat tambahan 1 class untuk Main
 
 Berikut merupakan alasan struktur pewarisan dalam program:
 - class Human berada di paling atas karena semua SivitasAkademik dan semua Mahasiswa pasti merupakan Human.
